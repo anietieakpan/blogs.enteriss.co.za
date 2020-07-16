@@ -17,4 +17,6 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll -->
 
+<!-- ![Me at the office sometime last year](/images/IMG_0105.jpeg) -->
+
 This is my blog on technology related hard-core news. You might want to check out my [Planning Schedule](/blog-planning-schedule) for more on the publishing calendar for 2020!
